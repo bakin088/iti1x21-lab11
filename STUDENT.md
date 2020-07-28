@@ -1,6 +1,6 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
+Student name: Benjamin Akinnusi 
+Student number: 300135082
 Course code: ITI1121
 Lab: Lab11
 Course section: 02
